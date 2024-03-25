@@ -4,9 +4,9 @@
 
 I have a bachelor's degree in Strategic Business Management from Mackenzie University.<br>
 
-Now, I am currently studying Systems Analysis and Development at Fatec, São Paulo State Technological College.
+Now, I am currently studying Systems Analysis and Development at Fatec, São Paulo State Technological College and
 
-I am looking for an internship to start  to work in IT area and develop my skills. I am available for an interview anytime.
+working as an intern Fullstack Web Developer. I am available for an interview anytime.
 
 
 ### I am currently learning...
